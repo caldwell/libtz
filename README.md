@@ -3,6 +3,10 @@ libtz
 
 High(er) level Rust interface for [libtz-sys](https://github.com/caldwell/libtz-sys).
 
+Links: [[Documentation](https://docs.rs/libtz/latest)]
+       [[Git Repository](https://github.com/caldwell/libtz)]
+       [[Crates.io](https://crates.io/crates/libtz)]
+
 Usage
 -----
 
