@@ -1,7 +1,9 @@
 libtz
 =====
 
-High(er) level Rust interface for [libtz-sys](https://github.com/caldwell/libtz-sys).
+Idiomatic Rust interface for IANA's [libtz](https://www.iana.org/time-zones)
+([git repository](https://github.com/eggert/tz))
+via [libtz-sys](https://github.com/caldwell/libtz-sys).
 
 Links: [[Documentation](https://docs.rs/libtz/latest)]
        [[Git Repository](https://github.com/caldwell/libtz)]
