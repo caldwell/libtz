@@ -32,6 +32,11 @@ println!("tm = {:?}", tm);
 # Result::<(), Box<dyn std::error::Error>>::Ok(())
 ```
 
+Status
+------
+This is young code and I'm not sure about the finaly interface yet. It may
+change rapidly.
+
 License
 -------
 Copyright © 2023 David Caldwell <david@porkrind.org>
