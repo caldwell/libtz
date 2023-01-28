@@ -16,7 +16,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-libtz = "0.1.0"
+libtz = "0.1.1"
 ```
 
 Example
